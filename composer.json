@@ -1,0 +1,12 @@
+{
+    "name": "amanbay/homework4",
+    "authors": [
+        {
+            "name": "Yersain",
+            "email": "y.y.amanbay@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
