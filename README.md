@@ -1,5 +1,7 @@
 # homework4
 
+#Loading products list with AJAX
+
 #Instructions 
 
 - Import attached goods.sql file in your database.
